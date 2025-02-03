@@ -1,0 +1,26 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Bukola",
+    "description": "A Hypothetical startup named launching an innovative e-commerce platform. SecureShop aims to provide a seamless and secure shopping experience for customers while ensuring rapid deployment of new features and high availability during traffic spikes. The platform is designed with security and scalability in mind, employing a modern cloud-native architecture.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Bukola",
+    "threatTop": 0
+  }
+}
